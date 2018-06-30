@@ -25,7 +25,7 @@ SECRET_KEY = 'ru1#_!x#2s=c810-fn0$51#*f2xjg$()h==+&^c=v&m24a)*tp'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '.ksarnax.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'ksarnax.pythonanywhere.com']
 
 
 # Application definition
